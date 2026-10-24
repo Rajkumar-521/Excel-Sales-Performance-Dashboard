@@ -6,7 +6,7 @@ An end-to-end interactive Excel dashboard developed to analyze coffee sales perf
 
 ## 📸 Dashboard Preview
 
-![Coffee Sales Dashboard](dashboard_preview.png.png)
+![Coffee Sales Dashboard](dashboard_preview.png)
 
 ---
 
