@@ -54,7 +54,7 @@ This project highlights core data analytics capabilities using Microsoft Excel, 
 
 1. Download or clone this repository:
 
-`git clone [https://github.com/Rajkumar-521/Excel-Sales-Performance-Dashboard.git](https://github.com/Rajkumar-521/Excel-Sales-Performance-Dashboard.git)`
+git clone https://github.com/Rajkumar-521/Excel-Sales-Performance-Dashboard.git
 
 2. Open **COFFEE SALES DASHBOARD PROJECT.xlsx** in **Microsoft Excel**.
 3. Use the **Slicers** and **Timelines** on the Dashboard sheet to filter and analyze the data dynamically.
