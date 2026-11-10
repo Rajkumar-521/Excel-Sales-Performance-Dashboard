@@ -4,6 +4,12 @@ An end-to-end interactive Excel dashboard developed to analyze coffee sales perf
 
 ---
 
+## 📁 Project Repository Files & Dataset
+* **Final Excel Dashboard File:** [COFFEE SALES DASHBOARD PROJECT.xlsx](COFFEE%20SALES%20DASHBOARD%20PROJECT.xlsx)
+* **Raw Dataset File:** [coffeeOrdersData.xlsx](coffeeOrdersData.xlsx)
+
+---
+
 ## 📸 Dashboard Preview
 
 ![Coffee Sales Dashboard](dashboard_preview.png)
@@ -18,21 +24,21 @@ This project highlights core data analytics capabilities using Microsoft Excel, 
 
 ## 📊 Key Business Questions Solved
 
-* **Sales Trends:** How do coffee revenues and order volumes fluctuate across different months and years?
-* **Product Performance:** Which coffee roast types (Espresso, Latte, Cappuccino, Dark Roast) generate maximum revenue?
-* **Customer Insights:** Who are the top purchasing customers, and what are their buying preferences?
-* **Geographic Revenue:** Which countries (United States, Ireland, United Kingdom) drive the maximum sales volume?
+- **Sales Trends:** How do coffee revenues and order volumes fluctuate across different months and years?
+- **Product Performance:** Which coffee roast types (Espresso, Latte, Cappuccino, Dark Roast) generate maximum revenue?
+- **Customer Insights:** Who are the top purchasing customers, and what are their buying preferences?
+- **Geographic Revenue:** Which countries (United States, Ireland, United Kingdom) drive the maximum sales volume?
 
 ---
 
 ## 🛠️ Excel Tools & Techniques Used
 
-* **Data Cleaning & Formatting:** Standardized dates, handled missing data, removed duplicate records, and configured custom currency/number formats.
-* **Advanced Formulas:**
+- **Data Cleaning & Formatting:** Standardized dates, handled missing data, removed duplicate records, and configured custom currency/number formats.
+- **Advanced Formulas:**
   * `XLOOKUP` & `INDEX/MATCH` for dynamic data fetching across customer and product sheets.
   * Nested `IF` statements to handle unit pricing logic and order size classifications.
-* **Pivot Tables & Visualizations:** Aggregated metrics into interactive line charts, horizontal bar charts, and top customer tables.
-* **Interactive Controls:** Integrated interactive **Slicers** (Roast Type, Size, Loyalty Card) and **Timelines** (Order Date) connected across all charts.
+- **Pivot Tables & Visualizations:** Aggregated metrics into interactive line charts, horizontal bar charts, and top customer tables.
+- **Interactive Controls:** Integrated interactive **Slicers** (Roast Type, Size, Loyalty Card) and **Timelines** (Order Date) connected across all charts.
 
 ---
 
@@ -46,6 +52,6 @@ This project highlights core data analytics capabilities using Microsoft Excel, 
 
 ## 🚀 How to Explore This Project
 
-1. Download the Excel workbook (`COFFEE SALES DASHBOARD PROJECT.xlsx`) from this repository.
-2. Open the file in **Microsoft Excel**.
-3. Use the **Slicers** and **Timelines** on the Dashboard sheet to filter and analyze the data dynamically.
+1. Download or clone this repository:
+   ```bash
+   git clone [https://github.com/Rajkumar-521/Excel-Sales-Performance-Dashboard.git](https://github.com/Rajkumar-521/Excel-Sales-Performance-Dashboard.git)
