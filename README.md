@@ -53,5 +53,5 @@ This project highlights core data analytics capabilities using Microsoft Excel, 
 ## 🚀 How to Explore This Project
 
 1. Download or clone this repository:
-   ```bash
-   git clone [https://github.com/Rajkumar-521/Excel-Sales-Performance-Dashboard.git](https://github.com/Rajkumar-521/Excel-Sales-Performance-Dashboard.git)
+```bash
+git clone [https://github.com/Rajkumar-521/Excel-Sales-Performance-Dashboard.git](https://github.com/Rajkumar-521/Excel-Sales-Performance-Dashboard.git)
